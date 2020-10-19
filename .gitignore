@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/vsm-service-controller/v16/.suo
