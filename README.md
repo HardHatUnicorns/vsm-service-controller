@@ -1,2 +1,2 @@
 # vsm-service-controller
-moja pierwsza zmiana
+halo czy to dziala
