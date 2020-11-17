@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "POcPpKTiJ+KXchQEq5mmdedD76agcT187wCSO7m9XXPOOlXhBe1vs5f79gMWCjTdXxqj0VmDpcaH1Wf0u7Ol8w==",
+  "success": true,
+  "projectFilePath": "P:\\VS\\Source\\Repos\\vsm-service-controller\\VsmServiceController\\VsmServiceController\\VsmServiceController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabiś\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
