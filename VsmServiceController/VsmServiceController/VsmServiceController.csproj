@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>ca563589-b514-4e8b-98a3-c77c972fd242</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="106.11.7" />
+  </ItemGroup>
+
+
 </Project>
